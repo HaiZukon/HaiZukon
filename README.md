@@ -63,7 +63,7 @@ The green dots on my [**GitHub** profile](https://github.com/zukahai) represent 
 Thank you 😄⚡😊  
 
 ### 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zukahai)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=haizukon)  
 
 <!--
 **muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
